@@ -53,4 +53,4 @@ Technologies I've been learning and using so far:
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielW1987&layout=compact&langs_count=8)](https://github.com/DanielW1987/DanielW1987)
 -->
 
-<a href="https://github.com/DanielW1987/DanielW1987"><img height="180px" src="https://github-readme-stats.vercel.app/api?username=DanielW1987&hide=contribs&count_private=true&show_icons=true&theme=dracula" /><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielW1987&layout=compact&langs_count=8" /></a>
+<a href="https://github.com/DanielW1987/DanielW1987"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=DanielW1987&hide=contribs&count_private=true&show_icons=true&theme=dracula" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielW1987&layout=compact&langs_count=8" /></a>
