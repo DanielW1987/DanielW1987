@@ -52,8 +52,8 @@ My name is Daniel. I'm a **Master of Science in Business Computing** and current
 
 <p align="center">
 <a href="https://github.com/DanielW1987">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielW1987&hide=contribs&count_private=true&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielW1987&layout=compact&langs_count=8"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DanielW1987&hide=contribs&count_private=true&show_icons=true&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielW1987&layout=compact&langs_count=8"/>
 </a>
 </p>
 <!--
