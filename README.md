@@ -10,7 +10,7 @@ My name is Daniel. I'm a **Master of Science in Business Computing** and current
 - 😍 My hobbies are working learning new tech things and sports.
 - 📫 How to reach me: contact me on LinkedIn.
 
-Technologies I've been learning and using so far:
+### Tech Stack
 
 - Programming languages: <br />
     [![Java](http://img.shields.io/badge/-Java-eee?style=for-the-badge&logo=java&logoColor=black)]()
@@ -48,9 +48,15 @@ Technologies I've been learning and using so far:
     [![MacOS](http://img.shields.io/badge/-MacOS-eee?style=for-the-badge&logo=apple&logoColor=black)]()
     [![Git](http://img.shields.io/badge/-Git-eee?style=for-the-badge&logo=git&logoColor=F05032)]()
 
+### GitHub Statistics
+
+<p align="center">
+<a href="https://github.com/DanielW1987">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielW1987&hide=contribs&count_private=true&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielW1987&layout=compact&langs_count=8"/>
+</a>
+</p>
 <!--
 [![Daniels github stats](https://github-readme-stats.vercel.app/api?username=DanielW1987&hide=contribs&count_private=true&show_icons=true&theme=dracula)](https://github.com/DanielW1987/DanielW1987)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielW1987&layout=compact&langs_count=8)](https://github.com/DanielW1987/DanielW1987)
 -->
-
-<a href="https://github.com/DanielW1987/DanielW1987"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=DanielW1987&hide=contribs&count_private=true&show_icons=true&theme=dracula" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielW1987&layout=compact&langs_count=8" /></a>
