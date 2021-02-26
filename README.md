@@ -7,7 +7,7 @@ My name is Daniel. I'm a **Master of Science in Business Computing** and current
 - 🔭 I’m currently working at Europace AG in Berlin.
 - 🌱 I’m currently learning Ansible and AWS.
 - 🔥 Most proud of my side project metal-detector.rocks (will be launched soon).
-- 😍 My hobbies are working learning new tech things and sports.
+- 😍 My hobbies are learning new tech things and sports.
 - 📫 How to reach me: contact me on LinkedIn.
 
 ### Tech Stack
