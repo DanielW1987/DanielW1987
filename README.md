@@ -4,8 +4,8 @@
 
 My name is Daniel. I'm a **Master of Science in Business Computing** and currently a **Software Developer**.
 
-- 🔭 I’m currently working at Europace AG in Berlin.
-- 🌱 I’m currently learning Ansible and AWS.
+- 🔭 I’m currently working at zeb.applied in Berlin.
+- 🌱 I’m currently learning React.
 - 🔥 Most proud of my side project <https://metal-detector.rocks>.
 - 😍 My hobbies are learning new tech things and sports.
 - 📫 How to reach me: contact me on LinkedIn.
