@@ -6,7 +6,7 @@ My name is Daniel. I'm a **Master of Science in Business Computing** and current
 
 - 🔭 I’m currently working at zeb.applied in Berlin.
 - 🌱 I’m currently learning React.
-- 🔥 Most proud of my side project <https://metal-detector.rocks>.
+- 🔥 Most proud of my side project <https://wanderrausch.de>.
 - 😍 My hobbies are learning new tech things and sports.
 - 📫 How to reach me: contact me on LinkedIn.
 
